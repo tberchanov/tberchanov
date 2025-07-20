@@ -2,9 +2,9 @@
 
 **Mobile Solutions Developer**
 
-### 👋 About Me
+## 👋 About Me
 
-Hi, I'm Anatolii — a passionate mobile solutions developer. I specialize in Android, AOSP, and cross-platform frameworks. I enjoy building robust products, writing clean code, and sharing knowledge with the community.
+Hi, I'm Anatolii — a passionate mobile solutions developer. I specialize in Android, AOSP, and cross-platform frameworks. I thrive on building robust products, leading teams, and driving technical excellence. I enjoy sharing knowledge, mentoring, and fostering innovation in every project.
 
 - 🛠️ **Languages:** Kotlin, Java, Python, TypeScript, Dart, C++
 - 🧩 **Frameworks:** Android, AOSP, KMP, Flutter, React Native
